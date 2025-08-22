@@ -9,13 +9,6 @@ Skills: HTML/CSS /Python/Java / C++ /DSA
 
 
 
-
-### Hi there 👋 I'm Muhammad Shuvon  
-
-🚀 Passionate Diploma in Engineering student | 💻 Learning DSA | ✨ Future Software Engineer  
-
-## 📊 Customizing Stats Card
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadshuvon100&show_icons=true&theme=radical)](https://github.com/muhammadshuvon100)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshuvon100&langs_count=8)](https://github.com/muhammadshuvon100/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshuvon100&layout=compact&theme=radical)](https://github.com/muhammadshuvon100)
