@@ -11,8 +11,8 @@ Skills: HTML/CSS /Python/Java / C++ /DSA
 - ⚡ Fun fact: Did you know Albert Einstein never learned how to drive a car? 🚗 is this fun fact? 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muhammadshuvon100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/muhammadshuvon21)
-
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="fill:#181717;"/>](https://github.com/muhammadshuvon100) 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40" style="fill:#1877F2;"/>](https://www.facebook.com/muhammadshuvon21)
 
 
 ## 📊 GitHub Stats & Languages
