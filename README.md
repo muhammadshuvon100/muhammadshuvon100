@@ -9,13 +9,9 @@ Skills: HTML/CSS /Python/Java / C++ /DSA
 
 
 
+## 📊 Customizing Stats Card
 
 <p align="center">
-  <!-- Top Languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshuvon100&layout=compact&theme=radical" alt="Top Langs" height="180"/>
-</p>
-
-<p align="center">
-  <!-- GitHub Stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadshuvon100&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadshuvon100&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshuvon100&layout=compact&theme=radical" height="200"/>
 </p>
