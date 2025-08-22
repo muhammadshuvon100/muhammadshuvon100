@@ -8,17 +8,6 @@ Skills: HTML/CSS /Python/Java / C++ /DSA
 - 💬 Ask me about Software Engineering  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muhammadshuvon100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/muhammadshuvon21)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshuvon100)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadshuvon100&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/muhammadshuvon100/contributions?format=svg&private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=muhammadshuvon100)
-
-
 
 
 ### Hi there 👋 I'm Muhammad Shuvon  
@@ -27,4 +16,4 @@ Skills: HTML/CSS /Python/Java / C++ /DSA
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadshuvon100&show_icons=true&theme=tokyonight)](https://github.com/muhammadshuvon100)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshuvon100&layout=compact&theme=tokyonight)](https://github.com/muhammadshuvon100)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshuvon100&layout=compact&theme=dark)](https://github.com/muhammadshuvon100)
