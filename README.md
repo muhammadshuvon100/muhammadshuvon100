@@ -17,3 +17,6 @@ Skills: HTML/CSS /Python/Java / C++ /DSA
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/muhammadshuvon100/contributions?format=svg&private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=muhammadshuvon100)
+
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
