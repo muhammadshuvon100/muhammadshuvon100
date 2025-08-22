@@ -8,9 +8,20 @@ Skills: HTML/CSS /Python/Java / C++ /DSA
 - 💬 Ask me about Software Engineering  
 
 
-## 📊 Customizing Stats Card
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=muhammadshuvon100&show_icons=true&theme=radical" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshuvon100&layout=compact&theme=radical" />
-</p>
+## 📊 GitHub Stats & Languages
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/muhammadshuvon100">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammadshuvon100&show_icons=true&theme=radical" height="180px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/muhammadshuvon100">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshuvon100&layout=compact&theme=radical" height="162px"/>
+      </a>
+    </td>
+  </tr>
+</table>
