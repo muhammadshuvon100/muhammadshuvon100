@@ -8,7 +8,13 @@ Skills: HTML/CSS /Python/Java / C++ /DSA
 - 🌱 I’m currently learning DSA 
 - 💬 Ask me about Software Engineering  
 - 😄 Pronouns: He/His 
-- ⚡ Fun fact: Did you know Albert Einstein never learned how to drive a car? 🚗 is this fun fact? 
+- ⚡ Fun fact: Did you know Albert Einstein never learned how to drive a car? 🚗 
+
+
+
+## GitHub Contribution Highlights
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadshuvon100&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 
