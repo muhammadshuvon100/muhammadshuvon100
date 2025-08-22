@@ -9,6 +9,9 @@ Skills: HTML/CSS /Python/Java / C++ /DSA
 
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadshuvon100&show_icons=true&theme=radical)](https://github.com/muhammadshuvon100)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshuvon100&layout=compact&theme=radical)](https://github.com/muhammadshuvon100)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadshuvon100&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshuvon100&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+</p>
