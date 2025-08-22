@@ -21,5 +21,4 @@ Skills: HTML/CSS /Python/Java / C++ /DSA
 
 
 
-https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true
-&title_color=006AFF&icon_color=0579C3&text_color=417E87&bg_color=ffffff00&hide_border=true
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadshuvon100)](https://github.com/muhammadshuvon100)
