@@ -3,7 +3,7 @@
 Passionate Diploma in Engineering student, exploring the world of coding with a focus on Data Structures & Algorithms. 🚀 Aspiring Software Engineer, driven to build smart and impactful solutions for the future. 💻✨
 
 
-Skills: HTML/CSS /Python/Java / C++ /DSA
+Skills: HTML/CSS /Python/Java / C++ 
 
 - 🌱 I’m currently learning DSA 
 - 💬 Ask me about Software Engineering  
