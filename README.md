@@ -13,5 +13,5 @@ Skills: HTML/CSS /Python/Java / C++ /DSA
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadshuvon100&show_icons=true&theme=radical" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshuvon100&layout=compact&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshuvon100&layout=compact&theme=radical" height="180"/>
 </p>
