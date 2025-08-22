@@ -22,3 +22,4 @@ Skills: HTML/CSS /Python/Java / C++ /DSA
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadshuvon100)](https://github.com/muhammadshuvon100)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammmadshuvon100&show_icons=true&theme=dracula)](https://github.com/muhammadshuvon100)
