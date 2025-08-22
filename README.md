@@ -13,9 +13,7 @@ Skills: HTML/CSS /Python/Java / C++ /DSA
 
 
 ## GitHub Contribution Highlights
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadshuvon100&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammadshuvon100&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 ## 📊 GitHub Stats & Languages
