@@ -1,0 +1,86 @@
+*{
+    margin: 0px ;
+    padding: 0px ;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+.container{
+    height: 100%;
+    width: 80%;
+    background-color: papayawhip;
+    margin: 20px auto ;
+}
+
+.container img{
+    border: 4px solid white;
+    border-radius: 50%;
+    float: left;
+}
+
+.container .info{
+    float: left;
+    padding: 20px;
+}
+
+.container .additional{
+    float: right;
+}
+.container .additional a{
+    text-decoration: none;
+    color: black;
+}
+
+.div-clear{
+    clear: both;
+}
+
+hr{
+    border: 2px solid black;
+}
+
+.leftSide{
+    width: 40%;
+    height: auto;
+    float: left;
+}
+
+.rightSide{
+    width: 60%;
+    float: left;
+    margin: 5px 0px;
+}
+
+.work_experience .rightSide .work{
+    list-style-position: inside;
+    margin-left: 30px;
+}
+
+section h2{
+    margin: 20px auto;
+}
+
+.rightSide_1{
+    float: right;
+    width: 60%;
+    margin-top: 10px;
+}
+
+.work_1{
+    list-style-position: inside;
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
+.education-item_1,.education-item_2{
+    width: 30%;
+    float: left;
+}
+
+.reference-item_1, .reference-item_2{
+    width: 30%;
+    float: left;
+}
